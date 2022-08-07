@@ -1,3 +1,4 @@
+const s= 1;
 const Info = () => {
    return (
       <div
