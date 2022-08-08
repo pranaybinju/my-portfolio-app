@@ -1,7 +1,7 @@
 import Info from "./Info"
-import Skills from "./Info"
-import Achievements from "./Info"
-import Contact from "./Info"
+import Skills from "./Skills"
+import Achievements from "./Achievements"
+import Contact from "./Contact"
 
 const Main = () => {
   return (
