@@ -1,4 +1,4 @@
-name: Github Action Test Workflow
+name: Workflow
 
 on:
   push:
@@ -19,5 +19,3 @@ jobs:
         run: yarn install
       - name: Run Tests
         run: yarn test
-      - name: Run Coverage
-        run: yarn test --coverage
